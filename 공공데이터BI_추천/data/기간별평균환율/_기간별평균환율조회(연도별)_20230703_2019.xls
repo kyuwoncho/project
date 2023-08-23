@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+<html>
+	<head><meta http-equiv=Content-Type content=text/html; charset=EUC-KR>
+
+ <style> 
+ table {font-size:11px; font-family:굴림;} 
+  .title_center 
+	{mso-style-parent:style0; 
+	text-align:center; 
+	vertical-align:middle; 
+	white-space:normal;} 
+  .currency 
+	{mso-style-parent:style0; 
+ 	mso-number-format:"\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"; 
+	border:.5pt solid black; 
+	white-space:normal;} 
+   .Format_Y1 
+	{mso-style-parent:style0; 
+	mso-number-format:"yyyy\0022\/\0022m\0022\/\0022d\;\@"; 
+	text-align:center; 
+	border:.5pt solid black; 
+ 	white-space:normal;}   .Format_Y2 
+	{mso-style-parent:style0; 
+	mso-number-format:"yyyy\/mm\;\@"; 
+	text-align:center; 
+	border:.5pt solid black; 
+ 	white-space:normal;}  td {mso-number-format:"\@";  }   .Format_number 
+  	{mso-style-parent:style0; 
+   	mso-number-format:"\@";   
+   	text-align:center;        
+   	vertical-align:middle;}	  
+  .Format_T1 
+	{mso-style-parent:style0; 
+	mso-number-format:"hh\:mm\:ss\;\@"; 
+	text-align:center; 
+	border:.5pt solid black; 
+ 	white-space:normal;} 
+  .Format_money 
+	{mso-number-format:"\#\,\#\#0_ ";   	text-align:right;        
+   	vertical-align:middle;}	  
+ </style>
+
+</head>
+	<body>2019.01.01 ~ 2019.12.31(최종고시분)<table border=1><tr height=25 class='title_center'><td rowspan=2 nowrap><strong>통화표시</strong></td><td rowspan=2 nowrap><strong>통화명</strong></td><td colspan=2 nowrap><strong>송금</strong></td><td colspan=2 nowrap><strong>현찰</strong></td><td rowspan=2 nowrap><strong>매매기준용</strong></td><td rowspan=2 nowrap><strong>대미환산율</strong></td></tr><tr><td nowrap><strong>보내실때</strong></td><td nowrap><strong>받으실때</strong></td><td nowrap><strong>사실때</strong></td><td nowrap><strong>파실때</strong></td></tr><tr align=center ><td class='first' >USD</td><td >미국 달러</td><td >1,177.78</td><td >1,155.25</td><td >1,186.92</td><td >1,146.10</td><td >1,166.51</td><td >1.0000</td></tr><tr align=center ><td class='first' >JPY</td><td >일본 100엔</td><td >1,081.01</td><td >1,060.25</td><td >1,089.36</td><td >1,051.90</td><td >1,070.63</td><td >0.9176</td></tr><tr align=center ><td class='first' >EUR</td><td >유럽연합 유로</td><td >1,318.91</td><td >1,292.81</td><td >1,331.58</td><td >1,280.14</td><td >1,305.86</td><td >1.1197</td></tr><tr align=center ><td class='first' >GBP</td><td >영국 파운드</td><td >1,503.38</td><td >1,473.62</td><td >1,517.82</td><td >1,459.19</td><td >1,488.50</td><td >1.2766</td></tr><tr align=center ><td class='first' >CAD</td><td >캐나다 달러</td><td >887.98</td><td >870.40</td><td >896.51</td><td >861.88</td><td >879.19</td><td >0.7537</td></tr><tr align=center ><td class='first' >CHF</td><td >스위스 프랑</td><td >1,185.93</td><td >1,162.45</td><td >1,197.32</td><td >1,151.06</td><td >1,174.19</td><td >1.0065</td></tr><tr align=center ><td class='first' >HKD</td><td >홍콩 달러</td><td >150.38</td><td >147.41</td><td >151.82</td><td >145.96</td><td >148.89</td><td >0.1276</td></tr><tr align=center ><td class='first' >CNY</td><td >중국 위안</td><td >170.36</td><td >167.00</td><td >177.11</td><td >160.25</td><td >168.68</td><td >0.1447</td></tr><tr align=center ><td class='first' >THB</td><td >태국 바트</td><td >37.98</td><td >37.24</td><td >38.36</td><td >36.86</td><td >37.61</td><td >0.0322</td></tr><tr align=center ><td class='first' >IDR</td><td ><span class='font-12'>인도네시아 100루피아</span></td><td >8.34</td><td >8.18</td><td >8.75</td><td >7.69</td><td >8.26</td><td >0.0071</td></tr><tr align=center ><td class='first' >SEK</td><td >스웨덴 크로네</td><td >124.57</td><td >122.11</td><td >125.80</td><td >120.88</td><td >123.34</td><td >0.1058</td></tr><tr align=center ><td class='first' >AUD</td><td >호주 달러</td><td >818.61</td><td >802.41</td><td >826.47</td><td >794.55</td><td >810.51</td><td >0.6951</td></tr><tr align=center ><td class='first' >DKK</td><td >덴마크 크로네</td><td >176.62</td><td >173.14</td><td >178.37</td><td >171.39</td><td >174.88</td><td >0.1499</td></tr><tr align=center ><td class='first' >NOK</td><td >노르웨이 크로네</td><td >133.88</td><td >131.24</td><td >135.21</td><td >129.91</td><td >132.56</td><td >0.1137</td></tr><tr align=center ><td class='first' >SAR</td><td >사우디 리알</td><td >314.13</td><td >307.91</td><td >326.57</td><td >290.81</td><td >311.02</td><td >0.2666</td></tr><tr align=center ><td class='first' >KWD</td><td >쿠웨이트 디나르</td><td >3,877.08</td><td >3,800.31</td><td >4,107.40</td><td >3,569.99</td><td >3,838.69</td><td >3.2908</td></tr><tr align=center ><td class='first' >BHD</td><td >바레인 디나르</td><td >3,125.08</td><td >3,063.21</td><td >3,279.79</td><td >2,846.62</td><td >3,094.15</td><td >2.6525</td></tr><tr align=center ><td class='first' >AED</td><td >U.A.E 디르함</td><td >320.74</td><td >314.40</td><td >333.45</td><td >296.94</td><td >317.57</td><td >0.2722</td></tr><tr align=center ><td class='first' >SGD</td><td >싱가포르 달러</td><td >863.59</td><td >846.50</td><td >872.14</td><td >837.95</td><td >855.04</td><td >0.7331</td></tr><tr align=center ><td class='first' >MYR</td><td >말레이지아 링깃</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >281.54</td><td >0.2414</td></tr><tr align=center ><td class='first' >NZD</td><td >뉴질랜드 달러</td><td >775.95</td><td >760.59</td><td >783.40</td><td >753.14</td><td >768.27</td><td >0.6590</td></tr><tr align=center ><td class='first' >TWD</td><td >타이완 달러</td><td >0.00</td><td >0.00</td><td >40.04</td><td >35.51</td><td >37.78</td><td >0.0324</td></tr><tr align=center ><td class='first' >PHP</td><td >필리핀 페소</td><td >22.75</td><td >22.31</td><td >24.56</td><td >21.19</td><td >22.53</td><td >0.0193</td></tr><tr align=center ><td class='first' >VND</td><td >베트남 100동</td><td >5.06</td><td >4.97</td><td >5.61</td><td >4.43</td><td >5.02</td><td >0.0043</td></tr><tr align=center ><td class='first' >PLN</td><td >폴란드 즈워티</td><td >306.98</td><td >300.91</td><td >328.25</td><td >279.63</td><td >303.94</td><td >0.2606</td></tr><tr align=center ><td class='first' >RUB</td><td >러시아 루블</td><td >18.21</td><td >17.86</td><td >19.29</td><td >15.88</td><td >18.04</td><td >0.0155</td></tr><tr align=center ><td class='first' >ZAR</td><td >남아공 랜드</td><td >81.53</td><td >79.93</td><td >87.18</td><td >74.27</td><td >80.73</td><td >0.0692</td></tr><tr align=center ><td class='first' >INR</td><td >인도 루피</td><td >15.18</td><td >14.88</td><td >17.89</td><td >15.58</td><td >16.57</td><td >0.0142</td></tr><tr align=center ><td class='first' >PKR</td><td >파키스탄 루피</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >7.77</td><td >0.0067</td></tr><tr align=center ><td class='first' >BDT</td><td >방글라데시 타카</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >13.81</td><td >0.0118</td></tr><tr align=center ><td class='first' >EGP</td><td >이집트 파운드</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >69.49</td><td >0.0595</td></tr><tr align=center ><td class='first' >MXN</td><td >멕시코 페소</td><td >61.20</td><td >60.00</td><td >67.26</td><td >53.34</td><td >60.60</td><td >0.0520</td></tr><tr align=center ><td class='first' >BRL</td><td >브라질 레알</td><td >0.00</td><td >0.00</td><td >328.42</td><td >260.38</td><td >295.88</td><td >0.2538</td></tr><tr align=center ><td class='first' >BND</td><td >브루나이 달러</td><td >0.00</td><td >0.00</td><td >889.22</td><td >803.73</td><td >855.02</td><td >0.7331</td></tr><tr align=center ><td class='first' >ILS</td><td >이스라엘 쉐켈</td><td >0.00</td><td >0.00</td><td >353.74</td><td >301.35</td><td >327.55</td><td >0.2807</td></tr><tr align=center ><td class='first' >JOD</td><td >요르단 디나르</td><td >0.00</td><td >0.00</td><td >1,711.13</td><td >1,513.70</td><td >1,645.32</td><td >1.4104</td></tr><tr align=center ><td class='first' >CZK</td><td >체코 코루나</td><td >0.00</td><td >0.00</td><td >54.94</td><td >46.81</td><td >50.88</td><td >0.0436</td></tr><tr align=center ><td class='first' >MNT</td><td >몽골 투그릭</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.44</td><td >0.0004</td></tr><tr align=center ><td class='first' >FJD</td><td >피지 달러</td><td >0.00</td><td >0.00</td><td >577.39</td><td >491.86</td><td >534.63</td><td >0.4584</td></tr><tr align=center ><td class='first' >KHR</td><td >캄보디아 리엘</td><td >0.00</td><td >0.00</td><td >31.25</td><td >26.63</td><td >28.94</td><td >0.0248</td></tr><tr align=center ><td class='first' >TRY</td><td >튀르키예 리라</td><td >207.37</td><td >203.27</td><td >221.74</td><td >188.90</td><td >205.32</td><td >0.1761</td></tr><tr align=center ><td class='first' >HUF</td><td >헝가리 포린트</td><td >4.05</td><td >3.98</td><td >4.33</td><td >3.70</td><td >4.01</td><td >0.0034</td></tr><tr align=center ><td class='first' >QAR</td><td >카타르 리알</td><td >0.00</td><td >0.00</td><td >1.47</td><td >1.15</td><td >320.03</td><td >0.2743</td></tr><tr align=center ><td class='first' >KZT</td><td >카자흐스탄 텡게</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >3.04</td><td >0.0026</td></tr><tr align=center ><td class='first' >NPR</td><td >네팔 루피</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >10.35</td><td >0.0089</td></tr><tr align=center ><td class='first' >XAU</td><td >GOLD 1g</td><td >52,826.19</td><td >51,780.14</td><td >0.00</td><td >0.00</td><td >52,303.17</td><td >44.7887</td></tr><tr align=center ><td class='first' >XAG</td><td >SILVER 1g</td><td >0.00</td><td >0.00</td><td >0.00</td><td >0.00</td><td >608.05</td><td >0.5208</td></tr></body>
+</html>
+ 
